@@ -6,7 +6,7 @@ Goal of the project was to create simplistic dating app, and use Angular for the
 
 Learning objectives
 
-Personal goals were to strenghten my c#, dotnet and typescript skills and learn the basics of Angular.
+Personal goals were to strengthen my c#, dotnet and typescript skills and learn the basics of Angular.
 
 Running
 
